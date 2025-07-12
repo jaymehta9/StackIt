@@ -34,7 +34,7 @@ A powerful open-source community platform designed to empower developers, creato
 To run the project locally:
 
 ```bash
-git clone https://github.com/yourusername/forem-clone.git
+git clone https://github.com/jaymehta9/forem-clone.git
 cd forem-clone
 bin/setup
 bin/dev
